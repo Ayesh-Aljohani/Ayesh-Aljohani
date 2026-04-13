@@ -262,7 +262,7 @@ mission:    Build AI-driven solutions grounded in rigorous data science
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Ayesh-Aljohani/Ayesh-Aljohani/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution chart" width="100%" />
+<img src="https://raw.githubusercontent.com/Ayesh-Aljohani/Ayesh-Aljohani/main/profile-3d-contrib/profile-customize.svg" alt="3D contribution chart" width="100%" />
 
 </div>
 
