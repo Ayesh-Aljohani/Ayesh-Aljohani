@@ -232,27 +232,21 @@ mission:    Build AI-driven solutions grounded in rigorous data science
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayesh-Aljohani&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=2AAFAF&icon_color=2AAFAF&text_color=c9d1d9&hide_border=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesh-Aljohani&layout=compact&theme=tokyonight&title_color=2AAFAF&text_color=c9d1d9&hide_border=true&bg_color=0d1117&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayesh-Aljohani&theme=tokyonight" width="96%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayesh-Aljohani&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayesh-Aljohani&theme=tokyonight&utcOffset=3" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayesh-Aljohani&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayesh-Aljohani&theme=tokyonight" width="48%" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Ayesh-Aljohani&theme=tokyonight&hide_border=true&background=0d1117&ring=2AAFAF&fire=2AAFAF&currStreakLabel=2AAFAF&stroke=2AAFAF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9" width="82%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayesh-Aljohani&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-<br/><br/>
-
-#### Profile Summary
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayesh-Aljohani&theme=tokyonight" width="96%" />
-
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayesh-Aljohani&theme=tokyonight" width="48%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayesh-Aljohani&theme=tokyonight" width="48%" />
 
 <br/><br/>
 
