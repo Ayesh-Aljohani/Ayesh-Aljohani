@@ -24,7 +24,7 @@ I am a **results-driven professional** with a strong foundation in **Artificial 
 
 ```yaml
 name:       Ayesh Aljohani
-location:   Jeddah, Saudi Arabia
+location:   Riyadh, Saudi Arabia
 focus:      Artificial Intelligence · Data Science · Applied ML
 interests:  Computer Vision · Multimodal ML · NLP · Statistics
 mission:    Build AI-driven solutions grounded in rigorous data science
