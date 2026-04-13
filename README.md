@@ -111,10 +111,10 @@ I'm an AI engineer focused on **applied machine learning**, **retrieval-augmente
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/ayesh-aljohani-554bb725a">
     <img src="https://img.shields.io/badge/LinkedIn-2AAFAF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:ayaljohani@outlook.sa">
     <img src="https://img.shields.io/badge/Email-1f6f6f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Ayesh-Aljohani">
