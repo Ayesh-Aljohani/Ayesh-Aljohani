@@ -1,130 +1,213 @@
-<h1 align="center">
-  <span style="color:#2AAFAF">السلام عليكم</span> · Hello, I'm Ayesh Aljohani
-</h1>
+<div align="center">
 
-<p align="center">
-  <em>AI Engineer · Data & BI Specialist · Applied ML Researcher</em><br/>
-  <sub>Riyadh, Saudi Arabia 🇸🇦</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayesh%20Aljohani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20Data%20Scientist%20·%20Aviation%20Security%20Specialist&descAlignY=58&descSize=16" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2AAFAF&center=true&vCenter=true&width=720&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+·+Welcome+to+my+profile;Certified+Data+Scientist+(IBM)+%26+Data+Analyst+(Google);Dual+M.Sc.+in+AI+and+Computer+Science;Bridging+AI%2C+Data+Science+%26+Aviation+Security" alt="Typing intro" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Jeddah-Saudi%20Arabia-2AAFAF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Planning%20Specialist-1f6f6f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-Arabic%20·%20English-2AAFAF?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-2AAFAF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Field-Data%20%26%20BI-2AAFAF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Arabic%20%7C%20English%20%7C%20Français-2AAFAF?style=for-the-badge" />
-</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Ayesh-Aljohani.Ayesh-Aljohani&left_color=1f6f6f&right_color=2AAFAF&left_text=Profile%20Views" alt="visitors" />
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayesh-Aljohani.Ayesh-Aljohani&left_color=gray&right_color=2AAFAF&left_text=Profile%20Views" alt="visitors" />
-</p>
+</div>
 
 ---
 
 ## About Me
 
-I'm an AI engineer focused on **applied machine learning**, **retrieval-augmented generation**, and **enterprise data platforms**. My work bridges research and production — from building local LLM pipelines on custom GPU workstations to shipping Arabic RTL business intelligence dashboards for real organizations.
+I am a **results-driven professional** with a foundation in **Artificial Intelligence, Data Science, and Aviation Security Operations**. I hold **dual Master's degrees** in AI and Computer Science, and I bring **six years of civil aviation operational experience** as a certified Air Traffic Controller — now applying that analytical and operational discipline to AI-driven aviation security planning.
 
-- 🎓 **M.Sc. in Artificial Intelligence** — King Abdulaziz University (KAU) · *Completed*
-- 🎓 **M.Sc. in Computer Science & AI** — Umm Al-Qura University (UQU) · *In Progress*
-- 🌍 Based in Riyadh · Working across Arabic and English
-- 🗣️ Arabic (native) · English (fluent) · Français (learning)
+```yaml
+name:       Ayesh Aljohani
+location:   Jeddah, Saudi Arabia
+role:       Planning Specialist — Cluster 2 Airports, Aviation Security Affairs
+background: 6+ years Air Traffic Control (SANS) · En-route Jeddah & Riyadh FIR
+mission:    Integrate AI and data-driven solutions into operational environments
+```
+
+---
+
+## Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Umm Al-Qura University
+**M.Sc. — Computer Science & Artificial Intelligence** *(Academic)*  
+`Jun 2024 – May 2026 (Expected)`  
+Focus: Computer Vision, Multimodal ML, NLP
+
+</td>
+<td width="50%" valign="top">
+
+#### King Abdulaziz University
+**M.Sc. — Artificial Intelligence** *(Executive)*  
+`Aug 2023 – May 2025` · **GPA 4.9 / 5.0**  
+Focus: ML, Deep Learning, NLP, Computer Vision
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### Saudi Electronic University
+**B.Sc. — Information Technology**  
+`Feb 2019 – Feb 2023` · Minor in Data Science
+
+</td>
+<td valign="top">
+
+#### Saudi Academy of Civil Aviation
+**Higher Diploma — Air Traffic Control** *(ICAO Certified)*  
+`Jan 2016 – Nov 2018` · ICAO 051–055 Ratings
+
+</td>
+</tr>
+</table>
+
+---
+
+## Professional Experience
+
+**Planning Specialist** — *Cluster 2 Airports, Aviation Security Affairs Dept.* · `Dec 2025 – Present`
+Security procedural documentation across **24 airports** in Saudi Arabia · KPI dashboards · PSIM & Security Audit App · GACA compliance.
+
+**Air Traffic Controller (Area — OEJN)** — *Saudi Air Navigation Services (SANS)* · `May 2022 – Nov 2025`
+En-route control in Jeddah ACC · radar surveillance · ICAO-compliant operations.
+
+**Air Traffic Controller (Area — OERK)** — *Saudi Air Navigation Services (SANS)* · `May 2019 – May 2022`
+Area control services at Riyadh FIR · civil–military coordination · safety reporting.
 
 ---
 
 ## Tech Stack
 
-**Languages**
-
+#### Languages & Core
 ![Python](https://img.shields.io/badge/Python-2AAFAF?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f6f6f?style=for-the-badge&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-1f6f6f?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2AAFAF?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-1f6f6f?style=for-the-badge&logo=r&logoColor=white)
 
-**AI / Machine Learning**
-
+#### AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2AAFAF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-2AAFAF?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2AAFAF?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2AAFAF?style=for-the-badge&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-2AAFAF?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-2AAFAF?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-1f6f6f?style=for-the-badge&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-1f6f6f?style=for-the-badge&logoColor=white)
-![MLX](https://img.shields.io/badge/Apple%20MLX-1f6f6f?style=for-the-badge&logo=apple&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-1f6f6f?style=for-the-badge&logoColor=white)
-![Open WebUI](https://img.shields.io/badge/Open%20WebUI-1f6f6f?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1f6f6f?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1f6f6f?style=for-the-badge&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-1f6f6f?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1f6f6f?style=for-the-badge)
+![Multimodal ML](https://img.shields.io/badge/Multimodal%20ML-1f6f6f?style=for-the-badge)
 
-**Data & Business Intelligence**
-
+#### Data & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power%20BI-2AAFAF?style=for-the-badge&logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-1f6f6f?style=for-the-badge&logoColor=white)
-![Star Schema](https://img.shields.io/badge/Star%20Schema-1f6f6f?style=for-the-badge&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-1f6f6f?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-1f6f6f?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1f6f6f?style=for-the-badge)
 
-**Cloud & Platform**
-
-![Power Apps](https://img.shields.io/badge/Power%20Apps-2AAFAF?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-2AAFAF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-1f6f6f?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-1f6f6f?style=for-the-badge&logo=servicenow&logoColor=white)
+#### Cloud & Enterprise Platforms
+![AWS](https://img.shields.io/badge/AWS-2AAFAF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-1f6f6f?style=for-the-badge&logo=sap&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1f6f6f?style=for-the-badge&logo=servicenow&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-1f6f6f?style=for-the-badge&logo=powerapps&logoColor=white)
 
-**Tools & Infrastructure**
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-2AAFAF?style=for-the-badge&logo=ubuntu&logoColor=white)
-![ROCm](https://img.shields.io/badge/AMD%20ROCm-1f6f6f?style=for-the-badge&logo=amd&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1f6f6f?style=for-the-badge&logo=git&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS%20M4%20Max-1f6f6f?style=for-the-badge&logo=apple&logoColor=white)
+#### Aviation & Security Domain
+![ICAO](https://img.shields.io/badge/ICAO%20Standards-2AAFAF?style=for-the-badge)
+![PSIM](https://img.shields.io/badge/PSIM-1f6f6f?style=for-the-badge)
+![SMS](https://img.shields.io/badge/Safety%20Management-1f6f6f?style=for-the-badge)
+![ATC](https://img.shields.io/badge/Air%20Traffic%20Control-1f6f6f?style=for-the-badge)
 
 ---
 
-## Currently Working On
+## Certifications
 
-- 🧾 **Arabic RTL Document Automation** — An end-to-end pipeline for generating professional procedural guides, flowcharts, and reports in native Arabic right-to-left layout, built on local LLMs and structured templates.
-- 📊 **Enterprise Power BI Dashboard** — A star-schema analytical model with fully localized Arabic RTL visuals and DAX measures, authored in the PBIP format for version-controlled BI.
-- 🔬 **Applied RAG Research** — Exploring retrieval strategies and evaluation methods for domain-specific knowledge assistants running on local GPU infrastructure.
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Professional Certificates**
+- IBM Data Science Professional Certificate
+- IBM AI Engineering Professional Certificate
+- Google Data Analytics Professional Certificate
+- AWS Certified Data Engineer — Associate *(Training)*
+- SAP Technology Skills 2025 — Multi-Dimensional Engineers
+- SDAIA — Advanced Pathways in AI
+- INE — Jr. Data Scientist
+- Saudi Council of Engineers — ICT Specialist License
+
+</td>
+<td valign="top" width="50%">
+
+**Statistics & Advanced Analytics**
+- Johns Hopkins — Advanced Statistics for Data Science
+- Johns Hopkins — Advanced Linear Models I & II
+- Johns Hopkins — Mathematical Biostatistics Boot Camp I & II
+- University of Colorado — Data Warehouse for BI
+
+**Aviation Safety & Security**
+- EUROCONTROL — Safety Nets & TCAS
+- SANS — Safety Management System (SMS)
+- SANS — Governance, Risk and Compliance
+- SANS — Essential Cybersecurity
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayesh-Aljohani&show_icons=true&theme=tokyonight&title_color=2AAFAF&icon_color=2AAFAF&hide_border=true&bg_color=1a1b27" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesh-Aljohani&layout=compact&theme=tokyonight&title_color=2AAFAF&hide_border=true&bg_color=1a1b27" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesh-Aljohani&theme=tokyonight&hide_border=true&background=1a1b27&ring=2AAFAF&fire=2AAFAF&currStreakLabel=2AAFAF" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayesh-Aljohani&show_icons=true&theme=tokyonight&title_color=2AAFAF&icon_color=2AAFAF&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesh-Aljohani&layout=compact&theme=tokyonight&title_color=2AAFAF&hide_border=true&bg_color=0d1117&langs_count=8" />
 
-<p align="center">
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesh-Aljohani&theme=tokyonight&hide_border=true&background=0d1117&ring=2AAFAF&fire=2AAFAF&currStreakLabel=2AAFAF" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayesh-Aljohani&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+
+</div>
+
+### Contribution Graph
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Ayesh-Aljohani/Ayesh-Aljohani/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## Certifications & Continuous Learning
-
-- 🏅 Certified through **SAP**, **INE**, **SDAIA**, and **AWS**
-- 📘 Currently pursuing **Microsoft Azure AI Engineer Associate**
-- 📗 Currently pursuing **Google Cloud Professional Machine Learning Engineer**
-- 🧠 Interests: AI research, mathematics, statistics, and applied data science
+</div>
 
 ---
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayesh-aljohani-554bb725a">
-    <img src="https://img.shields.io/badge/LinkedIn-2AAFAF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ayaljohani@outlook.sa">
-    <img src="https://img.shields.io/badge/Email-1f6f6f?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ayesh-Aljohani">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayesh-aljohani-554bb725a/">
+  <img src="https://img.shields.io/badge/LinkedIn-2AAFAF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ayaljohani@outlook.sa">
+  <img src="https://img.shields.io/badge/Email-1f6f6f?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+<a href="https://github.com/Ayesh-Aljohani">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <em>"العلم نورٌ، والعمل ثمرته."</em><br/>
-  <sub>Knowledge is light, and action is its fruit.</sub>
-</p>
+<div align="center">
+
+<em>"العلم نورٌ، والعمل ثمرته."</em><br/>
+<sub><em>Knowledge is light, and action is its fruit.</em></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
