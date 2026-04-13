@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayesh%20Aljohani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20Data%20Scientist%20·%20Aviation%20Security%20Specialist&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayesh%20Aljohani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20Data%20Scientist%20·%20Applied%20ML%20Researcher&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2AAFAF&center=true&vCenter=true&width=720&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+·+Welcome+to+my+profile;Certified+Data+Scientist+(IBM)+%26+Data+Analyst+(Google);Dual+M.Sc.+in+AI+and+Computer+Science;Bridging+AI%2C+Data+Science+%26+Aviation+Security" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2AAFAF&center=true&vCenter=true&width=720&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+·+Welcome+to+my+profile;Certified+Data+Scientist+(IBM)+%26+Data+Analyst+(Google);Dual+M.Sc.+in+AI+and+Computer+Science;Passionate+about+Applied+ML+%26+Data+Science" alt="Typing intro" />
 </a>
 
 <p>
   <img src="https://img.shields.io/badge/Jeddah-Saudi%20Arabia-2AAFAF?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Planning%20Specialist-1f6f6f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-1f6f6f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-Arabic%20·%20English-2AAFAF?style=for-the-badge" />
 </p>
 
@@ -20,14 +20,14 @@
 
 ## About Me
 
-I am a **results-driven professional** with a foundation in **Artificial Intelligence, Data Science, and Aviation Security Operations**. I hold **dual Master's degrees** in AI and Computer Science, and I bring **six years of civil aviation operational experience** as a certified Air Traffic Controller — now applying that analytical and operational discipline to AI-driven aviation security planning.
+I am a **results-driven professional** with a strong foundation in **Artificial Intelligence and Data Science**. I hold **dual Master's degrees** in AI and Computer Science and focus on applied machine learning, deep learning, and data-driven decision-making — from research into computer vision and multimodal ML to practical analytics with modern BI tools.
 
 ```yaml
 name:       Ayesh Aljohani
 location:   Jeddah, Saudi Arabia
-role:       Planning Specialist — Cluster 2 Airports, Aviation Security Affairs
-background: 6+ years Air Traffic Control (SANS) · En-route Jeddah & Riyadh FIR
-mission:    Integrate AI and data-driven solutions into operational environments
+focus:      Artificial Intelligence · Data Science · Applied ML
+interests:  Computer Vision · Multimodal ML · NLP · Statistics
+mission:    Build AI-driven solutions grounded in rigorous data science
 ```
 
 ---
@@ -73,19 +73,6 @@ Focus: ML, Deep Learning, NLP, Computer Vision
 
 ---
 
-## Professional Experience
-
-**Planning Specialist** — *Cluster 2 Airports, Aviation Security Affairs Dept.* · `Dec 2025 – Present`
-Security procedural documentation across **24 airports** in Saudi Arabia · KPI dashboards · PSIM & Security Audit App · GACA compliance.
-
-**Air Traffic Controller (Area — OEJN)** — *Saudi Air Navigation Services (SANS)* · `May 2022 – Nov 2025`
-En-route control in Jeddah ACC · radar surveillance · ICAO-compliant operations.
-
-**Air Traffic Controller (Area — OERK)** — *Saudi Air Navigation Services (SANS)* · `May 2019 – May 2022`
-Area control services at Riyadh FIR · civil–military coordination · safety reporting.
-
----
-
 ## Tech Stack
 
 #### Languages & Core
@@ -115,12 +102,6 @@ Area control services at Riyadh FIR · civil–military coordination · safety r
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1f6f6f?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-1f6f6f?style=for-the-badge&logo=powerapps&logoColor=white)
 
-#### Aviation & Security Domain
-![ICAO](https://img.shields.io/badge/ICAO%20Standards-2AAFAF?style=for-the-badge)
-![PSIM](https://img.shields.io/badge/PSIM-1f6f6f?style=for-the-badge)
-![SMS](https://img.shields.io/badge/Safety%20Management-1f6f6f?style=for-the-badge)
-![ATC](https://img.shields.io/badge/Air%20Traffic%20Control-1f6f6f?style=for-the-badge)
-
 ---
 
 ## Certifications
@@ -148,11 +129,11 @@ Area control services at Riyadh FIR · civil–military coordination · safety r
 - Johns Hopkins — Mathematical Biostatistics Boot Camp I & II
 - University of Colorado — Data Warehouse for BI
 
-**Aviation Safety & Security**
-- EUROCONTROL — Safety Nets & TCAS
-- SANS — Safety Management System (SMS)
-- SANS — Governance, Risk and Compliance
-- SANS — Essential Cybersecurity
+**AI & Deep Learning**
+- IBM — Building Deep Learning Models with TensorFlow
+- IBM — Deep Neural Networks with PyTorch
+- IBM — Computer Vision and Image Processing
+- IBM — AI Capstone Project with Deep Learning
 
 </td>
 </tr>
