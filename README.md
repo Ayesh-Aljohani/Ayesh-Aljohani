@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6f6f,100:2AAFAF&height=260&section=header&text=Ayesh%20Aljohani&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20·%20Data%20Scientist%20·%20Applied%20ML%20Researcher&descAlignY=56&descSize=18&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2AAFAF&center=true&vCenter=true&multiline=false&width=780&height=45&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+%E2%80%A2+Welcome+to+my+profile;Certified+Data+Scientist+(IBM)+%26+Data+Analyst+(Google);Dual+M.Sc.+in+Artificial+Intelligence+%26+Computer+Science;Passionate+about+Applied+ML%2C+Deep+Learning+%26+Data+Science" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2AAFAF&center=true&vCenter=true&multiline=false&width=780&height=45&lines=Welcome+to+my+profile;Certified+Data+Scientist+(IBM)+%26+Data+Analyst+(Google);Dual+M.Sc.+in+Artificial+Intelligence+%26+Computer+Science;Passionate+about+Applied+ML%2C+Deep+Learning+%26+Data+Science" alt="Typing intro" />
 </a>
 
 <br/>
@@ -294,8 +294,7 @@ mission:    Build AI-driven solutions grounded in rigorous data science
 
 <div align="center">
 
-> ### <em>« العلم نورٌ، والعمل ثمرته »</em>
-> <sub><em>Knowledge is light, and action is its fruit.</em></sub>
+> ### <em>« Knowledge is light, and action is its fruit »</em>
 
 </div>
 
