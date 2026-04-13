@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/horizontalline.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2AAFAF,50:1f6f6f,100:0d1117&height=3" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                            ABOUT ME                                 -->
@@ -55,13 +55,13 @@ mission:    Build AI-driven solutions grounded in rigorous data science
 
 <br/>
 
-<img src="https://github-readme-quotes-ckwjjjgfuvgf.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default" width="100%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/horizontalline.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2AAFAF,50:1f6f6f,100:0d1117&height=3" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                            EDUCATION                                -->
@@ -114,7 +114,7 @@ mission:    Build AI-driven solutions grounded in rigorous data science
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/horizontalline.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2AAFAF,50:1f6f6f,100:0d1117&height=3" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                            TECH STACK                               -->
@@ -174,7 +174,7 @@ mission:    Build AI-driven solutions grounded in rigorous data science
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/horizontalline.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2AAFAF,50:1f6f6f,100:0d1117&height=3" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                          CERTIFICATIONS                             -->
@@ -220,7 +220,7 @@ mission:    Build AI-driven solutions grounded in rigorous data science
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/horizontalline.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2AAFAF,50:1f6f6f,100:0d1117&height=3" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                          GITHUB STATS                               -->
@@ -266,7 +266,7 @@ mission:    Build AI-driven solutions grounded in rigorous data science
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/horizontalline.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2AAFAF,50:1f6f6f,100:0d1117&height=3" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                             CONNECT                                 -->
