@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Jeddah-Saudi%20Arabia-2AAFAF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-2AAFAF?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-1f6f6f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-Arabic%20·%20English-2AAFAF?style=for-the-badge" />
 </p>
