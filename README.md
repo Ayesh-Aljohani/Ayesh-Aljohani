@@ -303,3 +303,5 @@ mission:    Build AI-driven solutions grounded in rigorous data science
 <div align="center">
   <sub>⭐ Thanks for visiting — crafted with care.</sub>
 </div>
+
+<!-- polish 1 -->
