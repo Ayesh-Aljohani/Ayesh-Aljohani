@@ -77,7 +77,7 @@ mission:    Build AI-driven solutions grounded in rigorous data science
 
 > ### Umm Al-Qura University
 > **M.Sc. — Computer Science & Artificial Intelligence** *(Academic)*
-> <kbd>Jun 2024 – May 2026 (Expected)</kbd>
+> <kbd>Jun 2024 – July 2026 </kbd>
 >
 > Focus: **Computer Vision · Multimodal ML · NLP**
 
